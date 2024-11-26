@@ -6,6 +6,7 @@ This repository contains the source code for my personal website [anunez.dev](ht
 
 - **Astro** for lightning-fast static site generation.
 - **Vue 3** integration for dynamic and interactive components.
+- **TailWind** Rapidly build modern websites without ever leaving your HTML.
 - Responsive design with modern web standards.
 - Easy deployment and scalability.
 
@@ -90,5 +91,8 @@ You can configure deployment by following the guides in the [Astro Deployment Do
 
 - [Astro Documentation](https://docs.astro.build)
 - [Vue 3 Documentation](https://vuejs.org/)
+- [Tailwind Documentation](https://tailwindcss.com/)
+- [Astro + Vue 3 Guide](https://docs.astro.build/en/guides/integrations-guide/vue/)
+- [Astro + Tailwind Guide](https://docs.astro.build/en/guides/integrations-guide/tailwind/)
 
 Feel free to contribute or open issues if you have suggestions to improve the site! 🎉
